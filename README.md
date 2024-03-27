@@ -51,7 +51,7 @@ Alguns dos cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego, com raspagem de dados.
 
 </Div>
 
@@ -60,10 +60,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
  <details><summary>Tecnologias</summary>
    
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  > Utilizado para desenvolver o protótipo.
   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
+  > Utilizado para o desenvolvimento do código do projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
   > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraido de sites de vagas de emprego.
@@ -75,7 +75,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>PHP 
-  > Utilizado para o controle dos dados e apresentação.
+  > Utilizado para o controle dos dados e a apresentação dos mesmos.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
   > Utilizamos o Python para realizar a raspagem de dados em sites de vagas de emprego, permitindo a extração das informações necessárias para a catalogação das vagas de forma eficiente e automatizada.
@@ -90,6 +90,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 #### Resultado paginas front-end
 
 <img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
+<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
 
 Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
 
