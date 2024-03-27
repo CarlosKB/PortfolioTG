@@ -89,10 +89,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 #### Resultado paginas front-end
 
+Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
+
 <img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
 <img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
-
-Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
 
 </Div>
 
@@ -104,13 +104,13 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 ### Soft skills
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+> Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros da equipe.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto e estudos.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto.
