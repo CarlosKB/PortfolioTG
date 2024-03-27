@@ -45,13 +45,13 @@ Alguns dos cursos realizados e certificados.
 
 </Div>
 
-### Em 2021-2
+### 2022-1
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/DiasVitoria/API-1-Semestre)
+> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em estabelecer e manter um site web que armazenasse todos os Projetos Integradores desenvolvidos na FATEC de São José dos Campos desde o início de sua implementação. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a cataloção de vagas de emprego e cursos profissionalizantes, de modo para facilitar a busca. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
 
 </Div>
 
@@ -66,19 +66,19 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído do site da Fatec (APIs passadas) que era nosso principal objetivo.
+  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraido de sites de vagas de emprego.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
+  > Usamos o CSS para estilizar e aprimorar a apresentação visual das nossas páginas HTML. Com o CSS, temos controle sobre cores, fontes e layout, permitindo-nos criar páginas web mais atrativas.
   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
-  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+  > Utilizamos o Git devido à sua capacidade eficiente de gerenciar e controlar as versões do código-fonte. Ele possibilita colaboração, rastreamento de alterações e torna o desenvolvimento mais organizado e confiável.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para o 'web scraping' no site da Fatec, extraindo os links das informações das APIs passadas de todos os cursos.
+  > Utilizamos o Python para realizar a raspagem de dados em sites de vagas de emprego, permitindo a extração das informações necessárias para a catalogação das vagas de forma eficiente e automatizada.
 
  </details>
  
@@ -97,7 +97,7 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
 > Sei fazer com autonomia.
 
 * Controle de versionamento (GIT)  
-> Sei fazer com ajuda.
+> Sei fazer com autonomia.
 
 ### Soft skills
 
