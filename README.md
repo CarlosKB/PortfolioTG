@@ -51,7 +51,7 @@ Alguns dos cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a cataloção de vagas de emprego e cursos profissionalizantes, de modo para facilitar a busca. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego.
 
 </Div>
 
@@ -70,9 +70,6 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
   > Usamos o CSS para estilizar e aprimorar a apresentação visual das nossas páginas HTML. Com o CSS, temos controle sobre cores, fontes e layout, permitindo-nos criar páginas web mais atrativas.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
-  > Utilizamos o Git devido à sua capacidade eficiente de gerenciar e controlar as versões do código-fonte. Ele possibilita colaboração, rastreamento de alterações e torna o desenvolvimento mais organizado e confiável.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
@@ -87,6 +84,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
+#### Resultado paginas front-end
+
+<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
+
 Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
 
 </Div>
@@ -94,9 +95,6 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 ### Hard skills
 
 * Desenvolvimento WEB (Utilizando HTML5 & CSS3)
-> Sei fazer com autonomia.
-
-* Controle de versionamento (GIT)  
 > Sei fazer com autonomia.
 
 ### Soft skills
