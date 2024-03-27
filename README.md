@@ -22,8 +22,8 @@ Atualmente, estou empregado na empresa Pro4Tech, a qual já teve envolvimento em
 
 ### Contatos
 
-  <a href= "https://linkedin.com/in/DiasVictoria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://github.com/DiasVitoria" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href= "https://https://www.linkedin.com/in/carlos-kaua-berghahn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://github.com/CarlosKB" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <hr />  
 
