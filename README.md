@@ -87,7 +87,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação do site para a exibição dos links dos repositórios raspados e clonados e da página home do site utilizando HTML5 e CSS3, e também na parte de documentação do ReadMe do GitHub.
+Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
 
 </Div>
 
