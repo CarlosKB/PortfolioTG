@@ -74,6 +74,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
   > Utilizamos o Python para realizar a raspagem de dados em sites de vagas de emprego, permitindo a extração das informações necessárias para a catalogação das vagas de forma eficiente e automatizada.
 
