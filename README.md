@@ -168,16 +168,16 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 * Desenvolvimento Back-End (Utilizando Java)
 > Sei fazer com autonomia.
->
-> * Desenvolvimento Front-End (Utilizando JavaSwing)
+
+* Desenvolvimento Front-End (Utilizando JavaSwing)
 > Sei fazer com autonomia.
 
-> * Desenvolvimento Banco de dados (Utilizando MySQL)
+* Desenvolvimento Banco de dados (Utilizando MySQL)
 > Sei fazer com autonomia.
 
-> * Controle de versionamento
+* Controle de versionamento
 > Sei fazer com autonomia.
-> 
+
 
 ### Soft skills
 
@@ -194,13 +194,13 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 > Minha habilidade de trabalho em equipe deu uma grande evolução durante este projeto. Isso se deve ao fato de ter trabalhado na divisão de tarefas através de conversas mais frequentes com os membros da equipe. Além disso, estar mais envolvido em todas as etapas do processo contribuiu para o desenvolvimento dessa habilidade. A capacidade aprimorada de colaborar efetivamente com meus colegas resultou em um ambiente de equipe mais produtivo.
 
 
-> ### 2023-1
+### 2023-1
 
 <Div align="justify" >
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego, com raspagem de dados.
+O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa Visiona. Seu propósito central consistia em desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
 
 </Div>
 
@@ -214,20 +214,23 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraido de sites de vagas de emprego.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React 
+  > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Usamos o CSS para estilizar e aprimorar a apresentação visual das nossas páginas HTML. Com o CSS, temos controle sobre cores, fontes e layout, permitindo-nos criar páginas web mais atrativas.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> PostgreeSQL 
+  > Usamos o PostgreeSQL para o gerenciamento do Banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> NodeJS 
+  > Utilizamos o NodeJs pela sua capacidade de executar códigos JavaScript e TypeScript.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript 
+  > Utilizamos o JavaScript para o back-end de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>PHP 
-  > Utilizado para o controle dos dados e a apresentação dos mesmos.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para realizar a raspagem de dados em sites de vagas de emprego, permitindo a extração das informações necessárias para a catalogação das vagas de forma eficiente e automatizada.
 
  </details>
  
@@ -236,88 +239,32 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-#### Resultado paginas front-end
+#### Resultado do projeto
 
-Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
+Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incluindo o papel de Product Owner. Isso implicou estabelecer uma comunicação direta com o cliente, conduzindo conversas para compreender suas necessidades e expectativas. Além disso, fui encarregado do desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados. No Front-End, fui responsável pela implementação das chamadas de API e por ajustar as interfaces, utilizando React. No Back-End, utilizei JavaScript para implementar as lógicas e as conexões com o banco de dados. Isso incluiu a criação de funcionalidades essenciais, como o sistema de login e manutenção de sessão do usuário, a geração de dashboards com gráficos informativos, o desenvolvimento de um sistema de recuperação de senha que envia e-mails aos usuários, além de outras funcionalidades vitais, como a exclusão lógica de usuários no sistema e a capacidade de editar informações do usuário. Além disso, também fui encarregado de fazer o deploy do sistema, no qual utilizei a tecnologia Vercel.
 
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
+<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/adm-cadastrar-user.gif"/>
+<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/deletar-user.gif"/>
+<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/validação-de-email.gif"/>
+<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint%203/gifs/8_dashboard.gif"/>
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+* Desenvolvimento Front-End(Utilizando React)
 > Sei fazer com autonomia.
 
-### Soft skills
+* Desenvolvimento Front-End(Utilizando React)
+> Sei fazer com autonomia.
 
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
-
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros da equipe.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto e estudos.
-
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto.
+* Desenvolvimento Back-End(Utilizando JavaScript)
+> Sei fazer com autonomia.
 >
-> ### 2023-2
+* Deploy de sistemas(Utilizando Vercel)
+> Sei fazer com autonomia.
 
-<Div align="justify" >
-
-> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2023.2)
-
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego, com raspagem de dados.
-
-</Div>
-
-### Tecnologias utilizadas
-
- <details><summary>Tecnologias</summary>
-   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código do projeto.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraido de sites de vagas de emprego.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Usamos o CSS para estilizar e aprimorar a apresentação visual das nossas páginas HTML. Com o CSS, temos controle sobre cores, fontes e layout, permitindo-nos criar páginas web mais atrativas.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>PHP 
-  > Utilizado para o controle dos dados e a apresentação dos mesmos.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para realizar a raspagem de dados em sites de vagas de emprego, permitindo a extração das informações necessárias para a catalogação das vagas de forma eficiente e automatizada.
-
- </details>
- 
-
-### Contribuições pessoais
-
-<Div align="justify" >
-
-#### Resultado paginas front-end
-
-Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
-
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
-
-</Div>
-
-### Hard skills
-
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+* Desenvolvimento de Banco de dados(Utilizando PostgreeSQL)
 > Sei fazer com autonomia.
 
 ### Soft skills
@@ -326,10 +273,11 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 > Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros da equipe.
+Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. Essa dedicação à comunicação foi um elemento muito importante para a conclusão do projeto. Notavelmente, o projeto demandou uma evolução significativa no uso da comunicação devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto e estudos.
+> Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Desde a comunicação direta com o cliente até a divisão de tarefas e o desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
 
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto.
+* Resolução de problemas
+> Por causa de uma comunicação limitada do cliente, precisei recorrer bastante à minha habilidade de resolução de problemas ao longo de todo o projeto. Foi necessário analisar cuidadosamente cada situação para encontrar a melhor solução para os problemas do cliente, mesmo com poucos feedbacks disponíveis. Essa experiência foi uma oportunidade valiosa para aprimorar minha capacidade de resolver problemas de forma eficaz e independente, buscando alternativas criativas e garantindo que o projeto continuasse avançando mesmo diante de desafios de comunicação.
+
