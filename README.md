@@ -142,7 +142,7 @@ O projeto integrador do segundo semestre do curso envolveu colaboração com um 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL 
   > Utilizado como sistema de gerenciamento de banco de dados.
 > 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/amazon-original.svg"/> AmazonAWS 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> AmazonAWS 
   > Utilizado para a hospedagem do banco de dados.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
@@ -155,19 +155,29 @@ O projeto integrador do segundo semestre do curso envolveu colaboração com um 
 
 <Div align="justify" >
 
-#### Resultado paginas front-end
+#### Resultado do projeto
 
-Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
+Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incluindo o papel de Product Owner. Como tal, estabeleci comunicação direta com o cliente, conduzindo conversas para entender suas necessidades e expectativas. No âmbito do desenvolvimento, liderei a criação do Back-End, Front-End e Banco de Dados. No Front-End, desenvolvi as interfaces utilizando JavaSwing, enquanto no Back-End, fui responsável por montar as classes dos objetos e toda a lógica das funções, além de estabelecer as conexões com o banco de dados.
 
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Usuário.gif"/>
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%202/gifs/Cadastro%20de%20Usuário.gif"/>
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+* Desenvolvimento Back-End (Utilizando Java)
 > Sei fazer com autonomia.
+>
+> * Desenvolvimento Front-End (Utilizando JavaSwing)
+> Sei fazer com autonomia.
+
+> * Desenvolvimento Banco de dados (Utilizando MySQL)
+> Sei fazer com autonomia.
+
+> * Controle de versionamento
+> Sei fazer com autonomia.
+> 
 
 ### Soft skills
 
@@ -175,14 +185,13 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 > Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros da equipe.
+> Durante todo o projeto, minha habilidade de comunicação foi muito trabalhada. Mantive um foco constante na estruturação e na garantia de uma comunicação fluida durante todas as sprints. Essa atenção à comunicação foi crucial para o sucesso do projeto. No entanto, enfrentamos desafios interpessoais em um momento específico, onde surgiram desavenças com um membro da equipe. Para abordar esses desentendimentos e garantir que não prejudicassem o projeto ou a equipe, tivemos várias reuniões para a resolução dos conflitos. Através desses esforços, consegui melhorar minha habilidade de comunicação.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto e estudos.
+> Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Desde a comunicação direta com o cliente até a divisão de tarefas e o desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto.
-
+> Minha habilidade de trabalho em equipe deu uma grande evolução durante este projeto. Isso se deve ao fato de ter trabalhado na divisão de tarefas através de conversas mais frequentes com os membros da equipe. Além disso, estar mais envolvido em todas as etapas do processo contribuiu para o desenvolvimento dessa habilidade. A capacidade aprimorada de colaborar efetivamente com meus colegas resultou em um ambiente de equipe mais produtivo.
 
 
 > ### 2023-1
