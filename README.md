@@ -120,9 +120,9 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
+> [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego, com raspagem de dados.
+O projeto integrador do segundo semestre do curso envolveu colaboração com um cliente externo, a empresa TrackCash. Seu propósito central consistia na criação de um aplicativo desktop para o registros de canais de vendas; para que o cliente consiga a plataforma, afim de interagir as informações de vendas desses canais.
 
 </Div>
 
@@ -133,23 +133,20 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo.
   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> NetBeans 
   > Utilizado para o desenvolvimento do código do projeto.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraido de sites de vagas de emprego.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Usamos o CSS para estilizar e aprimorar a apresentação visual das nossas páginas HTML. Com o CSS, temos controle sobre cores, fontes e layout, permitindo-nos criar páginas web mais atrativas.
+> 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 
+  > Utilizado para o desenvolvimento do front-end e back-end da aplicação.
+> 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/ mysql-original.svg"/> MySQL 
+  > Utilizado como sistema de gerenciamento de banco de dados.
+> 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/amazon-original.svg"/> AmazonAWS 
+  > Utilizado para a hospedagem do banco de dados.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>PHP 
-  > Utilizado para o controle dos dados e a apresentação dos mesmos.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para realizar a raspagem de dados em sites de vagas de emprego, permitindo a extração das informações necessárias para a catalogação das vagas de forma eficiente e automatizada.
 
  </details>
  
