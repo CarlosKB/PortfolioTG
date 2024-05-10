@@ -139,7 +139,7 @@ O projeto integrador do segundo semestre do curso envolveu colaboração com um 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java 
   > Utilizado para o desenvolvimento do front-end e back-end da aplicação.
 > 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/ mysql-original.svg"/> MySQL 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL 
   > Utilizado como sistema de gerenciamento de banco de dados.
 > 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/amazon-original.svg"/> AmazonAWS 
