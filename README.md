@@ -198,7 +198,7 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2023.1)
+> [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
 O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa Visiona. Seu propósito central consistia em desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
 
