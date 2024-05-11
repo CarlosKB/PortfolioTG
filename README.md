@@ -255,9 +255,6 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 * Desenvolvimento Front-End(Utilizando React)
 > Sei fazer com autonomia.
 
-* Desenvolvimento Front-End(Utilizando React)
-> Sei fazer com autonomia.
-
 * Desenvolvimento Back-End(Utilizando JavaScript)
 > Sei fazer com autonomia.
 >
