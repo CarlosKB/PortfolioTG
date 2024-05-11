@@ -272,8 +272,8 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 * Organização 
 > Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
-* Comunicação 
-Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. Essa dedicação à comunicação foi um elemento muito importante para a conclusão do projeto. Notavelmente, o projeto demandou uma evolução significativa no uso da comunicação devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso.
+* Comunicação
+> Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. Essa dedicação à comunicação foi um elemento muito importante para a conclusão do projeto. Notavelmente, o projeto demandou uma evolução significativa no uso da comunicação devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso.
  
 * Proatividade
 > Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Desde a comunicação direta com o cliente até a divisão de tarefas e o desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
