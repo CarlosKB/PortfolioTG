@@ -107,13 +107,13 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 > Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros da equipe.
+> Alcançada por meio da comunicação constante com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros do time. Este sendo o meu primeiro projeto, a comunicação se tornou uma habilidade crucial para o progresso tanto do projeto quanto da equipe.
  
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto e estudos.
+> Desenvolvida por meio de uma busca constante por maior envolvimento no projeto e estudos. Dado meu inicial desconhecimento das tecnologias envolvidas, foi essencial assumir uma postura proativa ao me envolver profundamente nas atividades. Isso incluiu dedicar tempo extra para aprender e adquirir novas habilidades, buscando constantemente maneiras de evoluir de uma melhor forma.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto.
+> Adquirida através da habilidade de colaborar com os membros da equipe ao longo da execução do projeto, compartilhando ideias e trabalhando em conjunto. Mantive uma comunicação aberta com todos os membros da equipe, buscando constantemente formas de colaborar. Essa capacidade de colaboração não apenas fortaleceu os laços dentro da equipe, mas também permitiu que alcançássemos nossos objetivos de uma melhor forma, aproveitando ao máximo as habilidades e conhecimentos de cada membro.
 
 
 ### 2022-2
