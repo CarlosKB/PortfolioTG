@@ -278,3 +278,85 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 * Resolução de problemas
 > Por causa de uma comunicação limitada do cliente, precisei recorrer bastante à minha habilidade de resolução de problemas ao longo de todo o projeto. Foi necessário analisar cuidadosamente cada situação para encontrar a melhor solução para os problemas do cliente, mesmo com poucos feedbacks disponíveis. Essa experiência foi uma oportunidade valiosa para aprimorar minha capacidade de resolver problemas de forma eficaz e independente, buscando alternativas criativas e garantindo que o projeto continuasse avançando mesmo diante de desafios de comunicação.
 
+### 2023-2
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
+
+O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa GREENNEAT. Seu propósito central consistia em desenvolver uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
+</Div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React 
+  > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> PostgreeSQL 
+  > Usamos o PostgreeSQL para o gerenciamento do Banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> NodeJS 
+  > Utilizamos o NodeJs pela sua capacidade de executar códigos JavaScript e TypeScript.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript 
+  > Utilizamos o JavaScript para o back-end de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ </details>
+ 
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+#### Resultado do projeto
+
+Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados junto com um companheiro de equipe. No Front-End, fui responsável pela implementação das chamadas de API e por ajustar as interfaces, utilizando React. No Back-End, utilizei JavaScript para implementar as lógicas e as conexões com o banco de dados. Isso incluiu a criação de funcionalidades essenciais, como o sistema de login e manutenção de sessão do usuário, o desenvolvimento de um sistema de recuperação de senha que envia e-mails aos usuários, juntamente com toda a implementação das regras de negócio, incluindo a criação de compras e requisições, que eram fundamentais para o funcionamento do sistema. Além disso, também fui encarregado de fazer o deploy do sistema, no qual utilizei a tecnologia Vercel.
+
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/ValidacaoEmailGIF.gif"/>
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%203/Gifs/EmpresaMandaCrerditoMp4.gif"/>
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif"/>
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Front-End(Utilizando React)
+> Sei fazer com autonomia.
+
+* Desenvolvimento Back-End(Utilizando JavaScript)
+> Sei fazer com autonomia.
+>
+* Deploy de sistemas(Utilizando Vercel)
+> Sei fazer com autonomia.
+
+* Desenvolvimento de Banco de dados(Utilizando PostgreeSQL)
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Comunicação
+> Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. A dedicação à comunicação foi um elemento muito importante para garantir que todos estivessem alinhados e focados em seus objetivos. Especialmente, enfrentamos desafios significativos devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso. Além disso, ajustamos a forma como abordamos problemas que impactavam o desenvolvimento da equipe, e graças à comunicação aberta e transparente, conseguimos resolver todos os desafios de forma tranquila.
+ 
+* Proatividade
+> Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Ao envolver-me tanto no desenvolvimento do banco de dados, colaborando com um dos membros da equipe, quanto no desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
+
+* Resolução de problemas
+> Devido à comunicação limitada com o cliente e à complexidade das regras de negócio do projeto, foi necessário adotar uma abordagem altamente assertiva na resolução de problemas e definição das regras. Constantemente, buscava as melhores alternativas e aquelas que melhor se alinhavam com as necessidades iniciais do cliente. Isso exigiu um pensamento analítico e estratégico para encontrar as melhores soluções que atendessem aos requisitos do projeto, mesmo em face de informações limitadas.
+
+* Adaptabilidade
+> Nas entregas, solicitaram algumas mudanças e, devido à nossa abordagem ágil no desenvolvimento, conseguimos prontamente realizar as adaptações conforme as necessidades do cliente. Mantivemos uma postura aberta e flexível em relação às alterações no projeto, demonstrando nossa habilidade de adaptação e compromisso em atender às expectativas do cliente.
+
