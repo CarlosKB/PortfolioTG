@@ -312,6 +312,9 @@ O projeto integrador do terceiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/> Vercel 
   > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git para o versionamento de código, pois mantém um registro completo de todas as alterações, facilita o trabalho em equipe e permite o desenvolvimento de novas funcionalidades de forma organizada.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
