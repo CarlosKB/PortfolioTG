@@ -346,6 +346,9 @@ Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tant
 * Desenvolvimento de Banco de dados(Utilizando PostgreeSQL)
 > Sei fazer com autonomia.
 
+* Controle de versionamento (GIT)
+> Sei fazer com autonomia.
+
 ### Soft skills
 
 * Comunicação
