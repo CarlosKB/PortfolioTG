@@ -416,8 +416,8 @@ O projeto integrador do quinto semestre do curso envolveu colaboração com um c
 
 Durante o desenvolvimento deste projeto, fui responsável pelo desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados. Realizei a modelagem do banco e fiz alterações necessárias conforme as novas demandas do cliente, o que foi particularmente interessante, pois foi meu primeiro contato com bancos de dados NoSQL. Minha maior contribuição foi no Back-End, onde desenvolvi funções para as dashboards e para o acompanhamento do desenvolvimento dos parceiros no sistema. Também integrei essas funções ao Front-End, corrigindo bugs e implementando melhorias nas telas.
 
-<img width="5 rem" height="5 rem" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_dashboard.gif"/>
-<img width="5 rem" height="5 rem" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_cursos.gif"/>
+<img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_dashboard.gif"/>
+<img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_cursos.gif"/>
 
 </Div>
 
