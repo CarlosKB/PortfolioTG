@@ -371,9 +371,10 @@ Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tant
 
 <Div align="justify" >
 
-> [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
+> [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
 
-O projeto integrador do quinto semestre do curso envolveu colaboração com um cliente externo, a empresa Oracle. Seu propósito central consistia em desenvolver uma plataforma mobile, para gestão de parceiros, gerenciar as informações, acompanhar desenvolvimento dos parceiros e fornecer relatórios.
+O projeto integrador do quinto semestre do curso envolveu colaboração com um cliente externo, a empresa Oracle. O objetivo principal era desenvolver uma plataforma móvel para a gestão de parceiros. Essa plataforma permitiria gerenciar informações, acompanhar o desenvolvimento dos parceiros e fornecer relatórios detalhados.
+
 </Div>
 
 ### Tecnologias utilizadas
@@ -389,8 +390,8 @@ O projeto integrador do quinto semestre do curso envolveu colaboração com um c
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React Native
   > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> MongoDB 
-  > Usamos o PostgreeSQL para o gerenciamento do Banco de dados.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> MongoDB 
+  > Usamos o MongoDB para o Banco de dados.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> NodeJS 
   > Utilizamos o NodeJs pela sua capacidade de executar códigos JavaScript e TypeScript.
@@ -413,11 +414,10 @@ O projeto integrador do quinto semestre do curso envolveu colaboração com um c
 
 #### Resultado do projeto
 
-Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados que foi moldado. Tive maior impacto no backend, no qual fiz as funções para metricas, inserção de dados, atualizacao de dados dos parceiros tanto 
+Durante o desenvolvimento deste projeto, fui responsável pelo desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados. Realizei a modelagem do banco e fiz alterações necessárias conforme as novas demandas do cliente, o que foi particularmente interessante, pois foi meu primeiro contato com bancos de dados NoSQL. Minha maior contribuição foi no Back-End, onde desenvolvi funções para as dashboards e para o acompanhamento do desenvolvimento dos parceiros no sistema. Também integrei essas funções ao Front-End, corrigindo bugs e implementando melhorias nas telas.
 
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/ValidacaoEmailGIF.gif"/>
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%203/Gifs/EmpresaMandaCrerditoMp4.gif"/>
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif"/>
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_dashboard.gif"/>
+<img width="50 rem" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_cursos.gif"/>
 
 </Div>
 
@@ -438,13 +438,10 @@ Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tant
 ### Soft skills
 
 * Comunicação
-> Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. A dedicação à comunicação foi um elemento muito importante para garantir que todos estivessem alinhados e focados em seus objetivos. Especialmente, enfrentamos desafios significativos devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso. Além disso, ajustamos a forma como abordamos problemas que impactavam o desenvolvimento da equipe, e graças à comunicação aberta e transparente, conseguimos resolver todos os desafios de forma tranquila.
+> Devido à saída de alguns membros da equipe, tivemos que integrar novos integrantes ao grupo. Essa mudança, juntamente com diferentes estilos de trabalho e uma equipe menor, resultou em um aumento das responsabilidades individuais. Nesse contexto, a habilidade de comunicação tornou-se essencial para garantir a eficácia e a coesão do grupo.
  
 * Proatividade
-> Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Ao envolver-me tanto no desenvolvimento do banco de dados, colaborando com um dos membros da equipe, quanto no desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
-
-* Resolução de problemas
-> Devido à comunicação limitada com o cliente e à complexidade das regras de negócio do projeto, foi necessário adotar uma abordagem altamente assertiva na resolução de problemas e definição das regras. Constantemente, buscava as melhores alternativas e aquelas que melhor se alinhavam com as necessidades iniciais do cliente. Isso exigiu um pensamento analítico e estratégico para encontrar as melhores soluções que atendessem aos requisitos do projeto, mesmo em face de informações limitadas.
+> Neste projeto, minha proatividade evoluiu significativamente. Devido ao tamanho reduzido da equipe, ser proativo foi crucial para garantir a entrega e a finalização de diversas atividades. Desenvolvi a capacidade de ser proativo de maneira eficaz, o que contribuiu de forma importante para o sucesso do projeto.
 
 * Adaptabilidade
-> Nas entregas, solicitaram algumas mudanças e, devido à nossa abordagem ágil no desenvolvimento, conseguimos prontamente realizar as adaptações conforme as necessidades do cliente. Mantivemos uma postura aberta e flexível em relação às alterações no projeto, demonstrando nossa habilidade de adaptação e compromisso em atender às expectativas do cliente.
+> A adaptabilidade foi essencial neste projeto devido à necessidade de implementar novas tecnologias e atender às mudanças solicitadas pelo cliente em cada entrega. Estivemos sempre abertos a melhorar nosso sistema e ajustá-lo conforme as demandas do cliente, garantindo que suas expectativas fossem atendidas de maneira eficaz.
