@@ -383,8 +383,8 @@ O projeto integrador do quinto semestre do curso envolveu colaboração com um c
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código do projeto.
 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React Native
-  > Utilizamos o framework React para o desenvolvimento de todo o frontend do projeto.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> ReactNative
+  > Utilizamos o framework ReactNative para o desenvolvimento de todo o frontend do projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> MongoDB 
   > Usamos o MongoDB para o Banco de dados.
