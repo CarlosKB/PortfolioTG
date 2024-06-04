@@ -110,7 +110,7 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 > Alcançada por meio da comunicação constante com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros do time. Este sendo o meu primeiro projeto, a comunicação se tornou uma habilidade crucial para o progresso tanto do projeto quanto da equipe.
  
 * Proatividade
-> Desenvolvida por meio de uma busca constante por maior envolvimento no projeto e estudos. Dado meu inicial desconhecimento das tecnologias envolvidas, foi essencial assumir uma postura proativa ao me envolver profundamente nas atividades. Isso incluiu dedicar tempo extra para aprender e adquirir novas habilidades, buscando constantemente maneiras de evoluir de uma melhor forma.
+> Desenvolvida por meio de uma busca constante por maior envolvimento no projeto e estudos. Dado meu desconhecimento inicial das tecnologias envolvidas, adotei uma postura proativa para superar esse desafio. Isso envolveu dedicar tempo extra para aprender e adquirir novas habilidades, bem como buscar ativamente maneiras de aprimorar e evoluir continuamente. Meu compromisso com a proatividade me levou a participar mais de diversas atividades do projeto, garantindo que eu não apenas acompanhasse o progresso, mas também contribuísse de maneira significativa para o sucesso do time.
 
 * Trabalho em equipe
 > Adquirida através da habilidade de colaborar com os membros da equipe ao longo da execução do projeto, compartilhando ideias e trabalhando em conjunto. Mantive uma comunicação aberta com todos os membros da equipe, buscando constantemente formas de colaborar. Essa capacidade de colaboração não apenas fortaleceu os laços dentro da equipe, mas também permitiu que alcançássemos nossos objetivos de uma melhor forma, aproveitando ao máximo as habilidades e conhecimentos de cada membro.
@@ -181,8 +181,6 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
 * Comunicação 
 > Durante todo o projeto, minha habilidade de comunicação foi muito trabalhada. Mantive um foco constante na estruturação e na garantia de uma comunicação fluida durante todas as sprints. Essa atenção à comunicação foi crucial para o sucesso do projeto. No entanto, enfrentamos desafios interpessoais em um momento específico, onde surgiram desavenças com um membro da equipe. Para abordar esses desentendimentos e garantir que não prejudicassem o projeto ou a equipe, tivemos várias reuniões para a resolução dos conflitos. Através desses esforços, consegui melhorar minha habilidade de comunicação.
@@ -266,8 +264,6 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
 
 * Comunicação
 > Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. Essa dedicação à comunicação foi um elemento muito importante para a conclusão do projeto. Notavelmente, o projeto demandou uma evolução significativa no uso da comunicação devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso.
