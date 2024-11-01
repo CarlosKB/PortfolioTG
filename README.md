@@ -38,8 +38,8 @@ Alguns dos cursos realizados e certificados.
 
 |   Curso  |  Plataforma  |   Status    |
 | :---   | :---    | :---      |
-| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em Andamento |
-| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em andamento |
+| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluido |
+| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 
 ## Projetos
 
@@ -122,7 +122,7 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 
 > [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com um cliente externo, a empresa TrackCash. Seu propósito central consistia na criação de um aplicativo desktop para o registros de canais de vendas; para que o cliente consiga a plataforma, afim de interagir as informações de vendas desses canais.
+O projeto integrador do segundo semestre do curso envolveu colaboração com um cliente externo, a empresa TrackCash, uma empresa do setor financeiro especializada em controle de gastos. Seu propósito central consistia na criação de um aplicativo desktop para o registros de canais de vendas; para que o cliente consiga a plataforma, afim de interagir as informações de vendas desses canais.
 
 </Div>
 
@@ -198,7 +198,7 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 > [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa Visiona. Seu propósito central consistia em desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
+O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. Seu propósito central consistia em desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
 
 </Div>
 
@@ -280,7 +280,7 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 > [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
 
-O projeto integrador do quarto semestre do curso envolveu colaboração com um cliente externo, a empresa GREENNEAT. Seu propósito central consistia em desenvolver uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
+O projeto integrador do quarto semestre do curso envolveu colaboração com um cliente externo, a empresa GREENNEAT, uma empresa do setor de controle e descarte de óleo usado. Seu propósito central consistia em desenvolver uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
 </Div>
 
 ### Tecnologias utilizadas
@@ -369,7 +369,7 @@ Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tant
 
 > [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
 
-O projeto integrador do quinto semestre do curso envolveu colaboração com um cliente externo, a empresa Oracle. O objetivo principal era desenvolver uma plataforma móvel para a gestão de parceiros. Essa plataforma permitiria gerenciar informações, acompanhar o desenvolvimento dos parceiros e fornecer relatórios detalhados.
+O projeto integrador do quinto semestre do curso envolveu colaboração com um cliente externo, a empresa Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O objetivo principal era desenvolver uma plataforma móvel para a gestão de parceiros. Essa plataforma permitiria gerenciar informações, acompanhar o desenvolvimento dos parceiros e fornecer relatórios detalhados.
 
 </Div>
 
