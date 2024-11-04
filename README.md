@@ -51,8 +51,6 @@ Alguns dos cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia na criação de um site web para a catalogação de vagas de emprego e cursos profissionalizantes, facilitando a busca. Para alcançar esse objetivo, nossa equipe desenvolveu um site dedicado à catalogação de vagas de emprego, com raspagem de dados.
-
 ### Problema
 O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas surgiu a partir de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação. Essa lacuna dificultava a busca de alunos e profissionais por oportunidades relevantes, tornando o processo mais trabalhoso e ineficiente.
 
@@ -131,10 +129,8 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 
 > [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com um cliente externo, a empresa TrackCash, uma empresa do setor financeiro especializada em controle de gastos. Seu propósito central consistia na criação de um aplicativo desktop para o registros de canais de vendas; para que o cliente consiga a plataforma, afim de interagir as informações de vendas desses canais.
-
 ### Problema
-O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A necessidade identificada pela TrackCash era a criação de uma aplicação desktop para gerenciar e registrar dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens dos clientes. Essa solução buscava facilitar o acesso da TrackCash às finanças de instituições cadastradas, garantindo um gerenciamento mais eficiente e seguro dessas informações.
+No projeto de Aprendizagem por Projetos Integrados do 2º Semestre do curso de Análise e Desenvolvimento de Sistemas, identificou-se uma necessidade crítica da TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A empresa enfrenta desafios na gestão e segurança de dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP e credenciais de acesso, incluindo senhas e tokens dos clientes. Para solucionar esse problema, foi proposta a criação de uma aplicação desktop que permita o gerenciamento e o registro desses dados de forma eficiente e segura. Essa solução visa otimizar o acesso da TrackCash às finanças das instituições cadastradas, assegurando um controle mais eficaz e protegido das informações financeiras.
 
 ### Solução
 A solução proposta foi o desenvolvimento de um aplicativo desktop para o registro de canais de vendas, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, MySQL para gerenciamento de banco de dados e Amazon AWS para a hospedagem do banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e uma lógica de funcionamento robusta, melhorando significativamente a eficiência no controle de vendas.
@@ -199,7 +195,6 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 ### Soft skills
 
-
 * Comunicação 
 > Durante todo o projeto, minha habilidade de comunicação foi muito trabalhada. Mantive um foco constante na estruturação e na garantia de uma comunicação fluida durante todas as sprints. Essa atenção à comunicação foi crucial para o sucesso do projeto. No entanto, enfrentamos desafios interpessoais em um momento específico, onde surgiram desavenças com um membro da equipe. Para abordar esses desentendimentos e garantir que não prejudicassem o projeto ou a equipe, tivemos várias reuniões para a resolução dos conflitos. Através desses esforços, consegui melhorar minha habilidade de comunicação.
  
@@ -219,7 +214,7 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. Seu propósito central consistia em desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
 
 ### Problema
-O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. A Visiona buscava uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando assim o controle e a segurança das operações no sistema.
+O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários. A Visiona buscava uma ferramenta que facilitasse o controle de usuários no sistema, permitindo aos administradores realizar operações como cadastros e edições de forma eficiente.
 
 ### Solução
 A solução desenvolvida foi um sistema de Gerenciamento de Usuário baseado em tecnologia de microserviços. A aplicação permite que os usuários sejam criados, visualizados, editados e removidos de maneira intuitiva e segura. Utilizando React para o front-end e JavaScript para o back-end, além de PostgreSQL para gerenciamento de banco de dados, o sistema proporciona uma interface amigável e funcionalidades robustas, como login, recuperação de senha e dashboards informativos. A implementação e o deployment foram realizados na plataforma Vercel, garantindo uma solução completa e integrada para a Visiona.
@@ -305,8 +300,6 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 <Div align="justify" >
 
 > [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
-
-O projeto integrador do quarto semestre do curso envolveu colaboração com um cliente externo, a empresa GREENNEAT, uma empresa do setor de controle e descarte de óleo usado. Seu propósito central consistia em desenvolver uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
 
 ### Problema
 O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. O problema identificado pela Greenneat era a falta de uma plataforma para gerenciar usuários e seus créditos, que funcionavam como moeda de troca em transações de óleo usado, permitindo aos clientes obter benefícios e descontos na loja virtual da empresa. A Greenneat precisava de uma solução que permitisse o controle das transações de créditos, como compras e vendas, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
@@ -404,8 +397,6 @@ Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tant
 <Div align="justify" >
 
 > [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
-
-O projeto integrador do quinto semestre do curso envolveu colaboração com um cliente externo, a empresa Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O objetivo principal era desenvolver uma plataforma móvel para a gestão de parceiros. Essa plataforma permitiria gerenciar informações, acompanhar o desenvolvimento dos parceiros e fornecer relatórios detalhados.
 
 ### Problema
 O projeto de Aprendizagem por Projetos Integrados do 5º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O desafio identificado foi a criação de uma aplicação mobile que gerenciasse o sistema de progressão de trilhas de conhecimento e especializações dos parceiros cadastrados no sistema da Oracle. A Oracle necessitava de uma solução que centralizasse informações sobre parceiros, trilhas de aprendizado e especializações vinculadas, além de monitorar o progresso desses parceiros. Era crucial também que a aplicação oferecesse diferentes níveis de acesso para administradores, garantindo assim a segurança e a personalização das informações acessíveis a cada usuário.
