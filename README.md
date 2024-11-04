@@ -211,8 +211,6 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 
 > [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do terceiro semestre do curso envolveu colaboração com um cliente externo, a empresa Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. Seu propósito central consistia em desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
-
 ### Problema
 O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários. A Visiona buscava uma ferramenta que facilitasse o controle de usuários no sistema, permitindo aos administradores realizar operações como cadastros e edições de forma eficiente.
 
