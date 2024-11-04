@@ -97,8 +97,11 @@ A solução proposta foi o desenvolvimento de um site web dedicado à catalogaç
 
 Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focando na criação do site para a catalogação das vagas raspadas, além das demais páginas do site utilizando HTML5 e CSS3.
 
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
-<img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
+### Demonstrações
+<details><summary>Demonstrações</summary>
+  <img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif"/>
+  <img width="50 rem" src="https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif"/>
+</details>
 
 </Div>
 
@@ -136,7 +139,6 @@ O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de An
 ### Solução
 A solução proposta foi o desenvolvimento de um aplicativo desktop para o registro de canais de vendas, permitindo à TrackCash interagir de maneira eficiente com as informações coletadas. O aplicativo foi criado utilizando tecnologias como Java para o desenvolvimento do front-end e back-end, MySQL para gerenciamento de banco de dados e Amazon AWS para a hospedagem do banco de dados. Essa abordagem não só atendeu às necessidades específicas do cliente, mas também proporcionou uma interface amigável e uma lógica de funcionamento robusta, melhorando significativamente a eficiência no controle de vendas.
 
-
 </Div>
 
 ### Tecnologias utilizadas
@@ -172,9 +174,12 @@ A solução proposta foi o desenvolvimento de um aplicativo desktop para o regis
 
 Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incluindo o papel de Product Owner. Como tal, estabeleci comunicação direta com o cliente, conduzindo conversas para entender suas necessidades e expectativas. No âmbito do desenvolvimento, liderei a criação do Back-End, Front-End e Banco de Dados. No Front-End, desenvolvi as interfaces utilizando JavaSwing, enquanto no Back-End, fui responsável por montar as classes dos objetos e toda a lógica das funções, além de estabelecer as conexões com o banco de dados.
 
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Usuário.gif"/>
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%202/gifs/Cadastro%20de%20Usuário.gif"/>
-
+### Demonstrações
+<details><summary>Demonstrações</summary>
+  <img width="50 rem" src="https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Usuário.gif"/>
+  <img width="50 rem" src="https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%202/gifs/Cadastro%20de%20Usuário.gif"/>
+</details>
+  
 </Div>
 
 ### Hard skills
@@ -260,11 +265,13 @@ A solução desenvolvida foi um sistema de Gerenciamento de Usuário baseado em 
 
 Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incluindo o papel de Product Owner. Isso implicou estabelecer uma comunicação direta com o cliente, conduzindo conversas para compreender suas necessidades e expectativas. Além disso, fui encarregado do desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados. No Front-End, fui responsável pela implementação das chamadas de API e por ajustar as interfaces, utilizando React. No Back-End, utilizei JavaScript para implementar as lógicas e as conexões com o banco de dados. Isso incluiu a criação de funcionalidades essenciais, como o sistema de login e manutenção de sessão do usuário, a geração de dashboards com gráficos informativos, o desenvolvimento de um sistema de recuperação de senha que envia e-mails aos usuários, além de outras funcionalidades vitais, como a exclusão lógica de usuários no sistema e a capacidade de editar informações do usuário. Além disso, também fui encarregado de fazer o deploy do sistema, no qual utilizei a tecnologia Vercel.
 
-<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/adm-cadastrar-user.gif"/>
-<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/deletar-user.gif"/>
-<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/validação-de-email.gif"/>
-<img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint%203/gifs/8_dashboard.gif"/>
-
+### Demonstrações
+<details><summary>Demonstrações</summary>
+  <img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/adm-cadastrar-user.gif"/>
+  <img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/deletar-user.gif"/>
+  <img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint4/gifs/validação-de-email.gif"/>
+  <img width="50 rem" src="https://raw.githubusercontent.com/4DeskGroup/API-2023.1/main/doc/sprint%203/gifs/8_dashboard.gif"/>
+</details>
 </Div>
 
 ### Hard skills
@@ -351,9 +358,12 @@ A solução proposta foi o desenvolvimento de uma plataforma que gerencia os cr�
 
 Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados junto com um companheiro de equipe. No Front-End, fui responsável pela implementação das chamadas de API e por ajustar as interfaces, utilizando React. No Back-End, utilizei JavaScript para implementar as lógicas e as conexões com o banco de dados. Isso incluiu a criação de funcionalidades essenciais, como o sistema de login e manutenção de sessão do usuário, o desenvolvimento de um sistema de recuperação de senha que envia e-mails aos usuários, juntamente com toda a implementação das regras de negócio, que eram fundamentais para o funcionamento do sistema. Além disso, também fui encarregado de fazer o deploy do sistema, no qual utilizei a tecnologia Vercel.
 
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/ValidacaoEmailGIF.gif"/>
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%203/Gifs/EmpresaMandaCrerditoMp4.gif"/>
-<img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif"/>
+### Demonstrações
+<details><summary>Demonstrações</summary>
+  <img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/ValidacaoEmailGIF.gif"/>
+  <img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%203/Gifs/EmpresaMandaCrerditoMp4.gif"/>
+  <img width="50 rem" src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif"/>
+</details>
 
 </Div>
 
@@ -444,8 +454,11 @@ A solução proposta foi o desenvolvimento de uma plataforma móvel utilizando R
 
 Durante o desenvolvimento deste projeto, fui responsável pelo desenvolvimento tanto do Back-End quanto do Front-End, além de gerenciar o Banco de Dados. Realizei a modelagem do banco e fiz alterações necessárias conforme as novas demandas do cliente, o que foi particularmente interessante, pois foi meu primeiro contato com bancos de dados NoSQL. Minha maior contribuição foi no Back-End, onde desenvolvi funções para as dashboards e para o acompanhamento do desenvolvimento dos parceiros no sistema. Também integrei essas funções ao Front-End, corrigindo bugs e implementando melhorias nas telas.
 
-<img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_dashboard.gif"/>
-<img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_cursos.gif"/>
+### Demonstrações
+<details><summary>Demonstrações</summary>
+  <img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_dashboard.gif"/>
+  <img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs_api3/adm_cursos.gif"/>
+</details>
 
 </Div>
 
