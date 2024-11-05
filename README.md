@@ -14,7 +14,7 @@ Atualmente, estou no 5º semestre do curso de Tecnologia em Análise e Desenvolv
 
 No segundo semestre do curso, participei de uma palestra sobre estágio promovida pela JetSoft e fui selecionado após um processo de treinamento para uma vaga de estágio na empresa. Durante um ano de experiência como Analista Desenvolvedor Genexus, adquiri habilidades técnicas em bancos de dados e lógica de programação, além de uma compreensão mais profunda da metodologia ágil, na qual fui treinado pela própria empresa. Também pude aprimorar minhas habilidades interpessoais, como comunicação e trabalho em equipe.
 
-Atualmente, estou empregado na empresa Pro4Tech, a qual já teve envolvimento em projetos integradores com a Fatec. Este estágio tem sido uma oportunidade para expandir meus conhecimentos, especialmente em áreas que não são abordadas em sala de aula, como .NET.
+Atualmente, estou efetivado como Programador Trainee 1 na Pro4Tech, uma empresa que já colaborou em projetos integradores com a Fatec. Esse cargo tem sido uma excelente oportunidade para expandir meus conhecimentos, especialmente em áreas que vão além do conteúdo abordado em sala de aula, como .NET, React e Python.
 
 </Div>
 
