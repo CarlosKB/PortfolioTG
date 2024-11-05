@@ -10,7 +10,7 @@
 
 <img align="right" src="https://github.com/CarlosKB/PortifolioTG/blob/main/Images/CarlosImage.jpeg" alt="Foto de perfil" width="200"/>
 
-Atualmente, estou no 5º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, situada em São José dos Campos. Minha paixão pela tecnologia despertou durante meus estudos no curso Saga, onde tive a oportunidade de explorar uma variedade de tecnologias e dar meus primeiros passos na programação.
+Atualmente, estou no 6º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, situada em São José dos Campos. Minha paixão pela tecnologia despertou durante meus estudos no curso Saga, onde tive a oportunidade de explorar uma variedade de tecnologias e dar meus primeiros passos na programação.
 
 No segundo semestre do curso, participei de uma palestra sobre estágio promovida pela JetSoft e fui selecionado após um processo de treinamento para uma vaga de estágio na empresa. Durante um ano de experiência como Analista Desenvolvedor Genexus, adquiri habilidades técnicas em bancos de dados e lógica de programação, além de uma compreensão mais profunda da metodologia ágil, na qual fui treinado pela própria empresa. Também pude aprimorar minhas habilidades interpessoais, como comunicação e trabalho em equipe.
 
