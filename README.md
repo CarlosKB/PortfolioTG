@@ -558,10 +558,11 @@ Neste projeto, fui responsável pela concepção inicial da IA, definindo o esco
 ### Soft skills
 
 * Comunicação
-> Neste semestre tivemos a entrada de muitos membros e uma mudança significativa nas tecnologias utilzadas, na qual para entregarmos com exito nossa primeira sprint tivemos que ter muitas discuções perantes as tecnologias e os modos que iriamos fazer cada etapa da IA, como exemplo tivemos muitas atividades repetitivas por conta de não termos o conhecimento encima das tecnologias, neste momento tivemos de ter muitas conversas para conseguirmos ajustar e termos nossa entrega sem muitos problemas
- 
-* Proatividade
-> Neste projeto, minha proatividade evoluiu significativamente. Devido ao tamanho reduzido da equipe, ser proativo foi crucial para garantir a entrega e a finalização de diversas atividades. Desenvolvi a capacidade de ser proativo de maneira eficaz, o que contribuiu de forma importante para o sucesso do projeto.
+> Neste semestre, tivemos a integração de muitos novos membros e uma mudança significativa nas tecnologias utilizadas. Para garantir o sucesso da nossa primeira sprint, foi necessário realizar diversas discussões sobre as tecnologias e os métodos que adotariamos para cada etapa do desenvolvimento da IA. Como exemplo, enfrentamos atividades repetitivas devido à falta de familiaridade com as novas ferramentas. Nesse contexto, tivemos várias conversas e ajustes para superar os desafios e realizar a entrega sem grandes contratempos.
 
-* Adaptabilidade
-> A adaptabilidade foi essencial neste projeto devido à necessidade de implementar novas tecnologias e atender às mudanças solicitadas pelo cliente em cada entrega. Estivemos sempre abertos a melhorar nosso sistema e ajustá-lo conforme as demandas do cliente, garantindo que suas expectativas fossem atendidas de maneira eficaz.
+* Proatividade
+> Neste projeto, devido ao uso de tecnologias desconhecidas, a proatividade foi essencial, especialmente no início, para garantir a evolução da inteligência artificial (IA). Para isso, realizei diversas pesquisas e, com base nos dados do dataset, montei o escopo inicial, permitindo que tivéssemos um ponto de partida sólido.
+Além disso, a proatividade se destacou ao longo do desenvolvimento das diferentes etapas da IA e do RAG (Retrieve and Generate), áreas nas quais participei ativamente. Um exemplo disso foi a minha contribuição significativa para a parte de "Histórico de conversa do usuário", onde fui capaz de aplicar minha iniciativa para ajudar a resolver desafios complexos. Essa atitude proativa garantiu que as etapas avançassem de maneira eficiente e alinhada aos objetivos do projeto.
+
+* Resolução de Problemas
+> A resolução de problemas foi fundamental no desenvolvimento do projeto, principalmente ao lidar com desafios técnicos e no aprimoramento das respostas da IA. Durante a fase de tratativa de Processamento de Linguagem Natural (PLN), enfrentei dificuldades em garantir que a IA fornecesse respostas precisas e contextualmente relevantes. Para isso, foi necessário identificar as falhas nos algoritmos e ajustar as abordagens de pré-processamento de dados, como a tokenização e a remoção de ruídos, além de otimizar os modelos de linguagem. Esses ajustes exigiram uma análise detalhada e soluções rápidas, o que me permitiu melhorar a precisão das respostas geradas pela IA, garantindo uma melhor experiência do usuário e a eficiência do sistema.
