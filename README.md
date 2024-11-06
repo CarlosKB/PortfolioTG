@@ -475,3 +475,93 @@ Durante o desenvolvimento deste projeto, fui responsável pelo desenvolvimento t
 
 * Adaptabilidade
 > A adaptabilidade foi essencial neste projeto devido à necessidade de implementar novas tecnologias e atender às mudanças solicitadas pelo cliente em cada entrega. Estivemos sempre abertos a melhorar nosso sistema e ajustá-lo conforme as demandas do cliente, garantindo que suas expectativas fossem atendidas de maneira eficaz.
+
+
+### 2024.2
+
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semetre](https://github.com/4DeskGroup/API-2024.2)
+
+### Problema
+O projeto de Aprendizagem por Projetos Integrados do 6º semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Dom Rock, empresa de desenvolvimento de software com foco em Inteligência Artificial. A Dom Rock solicitou uma solução de IA que analisasse e extraísse insights de reviews de produtos de e-commerce, ajudando o departamento de compras corporativas a tomar decisões mais informadas na escolha de produtos e fornecedores. A IA deveria simplificar a seleção ao usar o feedback dos consumidores para orientar as decisões de compras.
+
+### Solução
+Dividimos o projeto em repositórios no GitHub, organizados por área (Front-End, Dataset e IA) para assegurar uma colaboração estruturada e eficiente. Na construção da IA, utilizamos Python e o framework LangChain, aplicando técnicas de chunking, embeddings e RAG, com o FAISS como banco de dados vetorial para armazenamento e busca otimizada de informações. No Front-End, desenvolvemos uma interface web interativa em TypeScript com VueJS, incluindo um chatbot que permite aos usuários fazer perguntas e receber respostas da IA em tempo real, facilitando o acesso e visualização dos insights dos reviews.
+
+</Div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código do projeto.
+
+  <img width="50 rem" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"/> VueJS
+  > Utilizamos o framework VueJS para o desenvolvimento de todo o frontend do projeto.
+
+  <img width="50 rem" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/> Python 
+  > Utilizamos a linguagem de programação Python para o desenvolvimento da IA.
+
+  <img width="50 rem" src="https://github.com/NicolasPereira06/Portfolio-TG/blob/main/imagens/simple-icons--langchain%20(2).png"/> LangChain 
+  > Utilizamos a biblioteca LangChain para implementar técnicas de RAG, incluindo embeddings, chunking.
+
+  <img width="50 rem" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"/> TypeScript 
+  > Utilizamos o TypeScript para o desenvolvimento de todo o frontend do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git para o versionamento de código, pois mantém um registro completo de todas as alterações, facilita o trabalho em equipe e permite o desenvolvimento de novas funcionalidades de forma organizada.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ </details>
+ 
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+#### Resultado do projeto
+
+Neste projeto, fui responsável pela concepção inicial da IA, definindo o escopo, realizando a leitura e tratamento dos dados com técnicas de processamento de linguagem natural e conduzindo todas as etapas do RAG, incluindo estratégias de chunking, embeddings, e criação do prompt-base. No front-end, fiz melhorias visuais e ajustes para alinhar o design ao protótipo do Figma, garantindo uma interface atraente e funcional.
+
+### Demonstrações
+<details><summary>Demonstrações</summary>
+  <img width="30%" height="30%" src="https://github.com/4DeskGroup/API-2024.2/blob/main/docs%20sprints/sprint2.gif"/>
+</details>
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Front-End(Utilizando VueJS)
+> Sei fazer com autonomia.
+
+* Desenvolvimento Back-End(Utilizando TypeScript)
+> Sei fazer com autonomia.
+
+* Desenvolvimento de Banco de dados(Utilizando FAISS)
+> Sei fazer com autonomia.
+
+* Desenvolvimento de IA com RAG(Utilizando LangChain)
+> Sei fazer com autonomia.
+
+* Controle de versionamento (GIT)
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Comunicação
+> Devido à saída de alguns membros da equipe, tivemos que integrar novos integrantes ao grupo. Essa mudança, juntamente com diferentes estilos de trabalho e uma equipe menor, resultou em um aumento das responsabilidades individuais. Nesse contexto, a habilidade de comunicação tornou-se essencial para garantir a eficácia e a coesão do grupo.
+ 
+* Proatividade
+> Neste projeto, minha proatividade evoluiu significativamente. Devido ao tamanho reduzido da equipe, ser proativo foi crucial para garantir a entrega e a finalização de diversas atividades. Desenvolvi a capacidade de ser proativo de maneira eficaz, o que contribuiu de forma importante para o sucesso do projeto.
+
+* Adaptabilidade
+> A adaptabilidade foi essencial neste projeto devido à necessidade de implementar novas tecnologias e atender às mudanças solicitadas pelo cliente em cada entrega. Estivemos sempre abertos a melhorar nosso sistema e ajustá-lo conforme as demandas do cliente, garantindo que suas expectativas fossem atendidas de maneira eficaz.
