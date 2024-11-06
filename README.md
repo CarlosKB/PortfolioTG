@@ -558,7 +558,7 @@ Neste projeto, fui responsável pela concepção inicial da IA, definindo o esco
 ### Soft skills
 
 * Comunicação
-> Devido à saída de alguns membros da equipe, tivemos que integrar novos integrantes ao grupo. Essa mudança, juntamente com diferentes estilos de trabalho e uma equipe menor, resultou em um aumento das responsabilidades individuais. Nesse contexto, a habilidade de comunicação tornou-se essencial para garantir a eficácia e a coesão do grupo.
+> Neste semestre tivemos a entrada de muitos membros e uma mudança significativa nas tecnologias utilzadas, na qual para entregarmos com exito nossa primeira sprint tivemos que ter muitas discuções perantes as tecnologias e os modos que iriamos fazer cada etapa da IA, como exemplo tivemos muitas atividades repetitivas por conta de não termos o conhecimento encima das tecnologias, neste momento tivemos de ter muitas conversas para conseguirmos ajustar e termos nossa entrega sem muitos problemas
  
 * Proatividade
 > Neste projeto, minha proatividade evoluiu significativamente. Devido ao tamanho reduzido da equipe, ser proativo foi crucial para garantir a entrega e a finalização de diversas atividades. Desenvolvi a capacidade de ser proativo de maneira eficaz, o que contribuiu de forma importante para o sucesso do projeto.
