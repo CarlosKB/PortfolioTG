@@ -372,7 +372,7 @@ Durante o desenvolvimento deste projeto, fui encarregado do desenvolvimento tant
 Durante o processo, expliquei detalhadamente para os desenvolvedores o raciocínio por trás da modelagem do banco, esclarecendo como cada tabela e relacionamento impactaria a integração com o back-end e o front-end. Essa comunicação constante ajudou a alinhar o entendimento da equipe, o que permitiu que todos seguissem a mesma direção e implementassem suas tarefas de maneira coesa.
  
 * Proatividade
-> Minha proatividade foi desafiada e aprimorada ao longo de várias fases do projeto. Desde o início, percebi que a criação do fluxo de trabalho e a modelagem do banco de dados seriam etapas cruciais para garantir a consistência e a eficiência da plataforma. Então, além de colaborar ativamente no desenvolvimento do back-end, assumi um papel central em outras etapas do projeto, como no front-end. Para garantir que o modelo do banco de dados se integrasse perfeitamente ao fluxo que havíamos desenhado, trabalhei em estreita colaboração com os desenvolvedores de front-end e back-end, ajustando as estruturas conforme necessário.
+> Minha proatividade foi desafiada e aprimorada ao longo de várias fases do projeto. Desde o início, percebi que a criação do fluxo do projeto e a modelagem do banco de dados seriam etapas cruciais para garantir a consistência e a eficiência da plataforma. Então, além de colaborar ativamente no desenvolvimento do back-end, assumi um papel central em outras etapas do projeto, como no front-end. Para garantir que o modelo do banco de dados se integrasse perfeitamente ao fluxo que havíamos desenhado, trabalhei em estreita colaboração com os desenvolvedores de front-end e back-end, ajustando as estruturas conforme necessário.
 Por exemplo, ao modelar as tabelas no banco de dados, tive que explicar e justificar cada etapa do processo, tornando claro como as decisões tomadas refletiam as necessidades do cliente e as regras de negócio. Essa abordagem não apenas facilitou a implementação, mas também me permitiu garantir que o fluxo entre as diferentes partes do sistema fosse coerente e funcional, o que exigiu uma atuação proativa além do que originalmente me foi designado.
 
 * Resolução de problemas
@@ -459,15 +459,12 @@ Durante o desenvolvimento deste projeto, fui responsável pelo desenvolvimento t
 > Sei fazer com autonomia.
 
 ### Soft skills
-
-* Comunicação
-> Devido à saída de alguns membros da equipe, tivemos que integrar novos integrantes ao grupo. Essa mudança, juntamente com diferentes estilos de trabalho e uma equipe menor, resultou em um aumento das responsabilidades individuais. Nesse contexto, a habilidade de comunicação tornou-se essencial para garantir a eficácia e a coesão do grupo.
  
 * Proatividade
-> Neste projeto, minha proatividade evoluiu significativamente. Devido ao tamanho reduzido da equipe, ser proativo foi crucial para garantir a entrega e a finalização de diversas atividades. Desenvolvi a capacidade de ser proativo de maneira eficaz, o que contribuiu de forma importante para o sucesso do projeto.
+> Neste projeto, a utilização do MongoDB foi um dos maiores desafios, pois era uma tecnologia nova para a equipe. Tomei a iniciativa de estudar sua documentação, assistir a vídeos e realizar testes práticos para entender como utilizá-lo de forma eficaz no projeto. Após adquirir esse conhecimento, implementei soluções que integrassem o MongoDB ao sistema, garantindo que ele atendesse às necessidades do cliente. Esse esforço foi crucial para adaptar o banco de dados à arquitetura do projeto e para resolver problemas específicos, contribuindo diretamente para o sucesso da entrega.
 
 * Adaptabilidade
-> A adaptabilidade foi essencial neste projeto devido à necessidade de implementar novas tecnologias e atender às mudanças solicitadas pelo cliente em cada entrega. Estivemos sempre abertos a melhorar nosso sistema e ajustá-lo conforme as demandas do cliente, garantindo que suas expectativas fossem atendidas de maneira eficaz.
+> Um exemplo claro de adaptabilidade ocorreu quando recebemos feedback do cliente indicando que estávamos salvando os dados do desenvolvimento dos parceiros de forma inadequada. O cliente solicitou alterações que incluíssem mais formas de demonstrar esse desenvolvimento. Essa mudança exigiu uma reestruturação significativa, abrangendo ajustes no front-end, no banco de dados MongoDB e nas funções do back-end. Apesar da complexidade e do impacto no projeto, demonstramos adaptabilidade ao implementar rapidamente as mudanças necessárias, garantindo que o sistema atendesse às expectativas do cliente de maneira eficaz.
 
 
 ### 2024.2
