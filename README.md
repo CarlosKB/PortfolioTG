@@ -276,16 +276,12 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 > Sei fazer com autonomia.
 
 ### Soft skills
-
-
-* Comunicação
-> Ao longo de todo o projeto, minha habilidade de comunicação foi fundamentalmente aprimorada. Essa dedicação à comunicação foi um elemento muito importante para a conclusão do projeto. Notavelmente, o projeto demandou uma evolução significativa no uso da comunicação devido à saída de alguns membros e à entrada de novos integrantes na equipe. Essa transição destacou ainda mais a importância da comunicação eficaz para manter o projeto em curso.
  
 * Proatividade
-> Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Desde a comunicação direta com o cliente até a divisão de tarefas e o desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
+> Neste projeto, enfrentamos o desafio de trabalhar com novas tecnologias e uma feature essencial: o deploy. Essa funcionalidade não foi abordada em nenhuma disciplina acadêmica, o que exigiu bastante estudo da minha parte. Dediquei-me a assistir vídeos, ler documentações e explorar diferentes abordagens para entender como realizar o deploy. Após avaliar diversas opções, escolhi utilizar a tecnologia do Vercel para realizar o deploy do projeto. Essa decisão foi baseada na facilidade de uso e nos benefícios oferecidos pela ferramenta. Com o conhecimento adquirido, implementei o deploy com sucesso, garantindo que o projeto fosse concluído adequadamente e agregando valor ao time.
 
 * Resolução de problemas
-> Por causa de uma comunicação limitada do cliente, precisei recorrer bastante à minha habilidade de resolução de problemas ao longo de todo o projeto. Foi necessário analisar cuidadosamente cada situação para encontrar a melhor solução para os problemas do cliente, mesmo com poucos feedbacks disponíveis. Essa experiência foi uma oportunidade valiosa para aprimorar minha capacidade de resolver problemas de forma eficaz e independente, buscando alternativas criativas e garantindo que o projeto continuasse avançando mesmo diante de desafios de comunicação.
+> Além de atuar como desenvolvedor, também assumi o papel de Product Owner (PO), o que exigiu um entendimento profundo do projeto para resolver os problemas do cliente de maneira eficaz. Foi crucial compreender a visão geral do sistema e os requisitos do cliente para conseguir dividir o trabalho em atividades claras e bem definidas para a equipe de desenvolvimento.
 
 ### 2023-2
 
