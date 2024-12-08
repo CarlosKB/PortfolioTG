@@ -109,18 +109,12 @@ Neste projeto, minha responsabilidade foi o desenvolvimento do Front-End, focand
 > Sei fazer com autonomia.
 
 ### Soft skills
-
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas pela equipe, a prática possibilitou a otimização do tempo e permitiu-me manter o foco e evitar confusões ao longo do projeto.
-
-* Comunicação 
-> Alcançada por meio da comunicação constante com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e a colaboração entre os membros do time. Este sendo o meu primeiro projeto, a comunicação se tornou uma habilidade crucial para o progresso tanto do projeto quanto da equipe.
  
 * Proatividade
-> Desenvolvida por meio de uma busca constante por maior envolvimento no projeto e estudos. Dado meu desconhecimento inicial das tecnologias envolvidas, adotei uma postura proativa para superar esse desafio. Isso envolveu dedicar tempo extra para aprender e adquirir novas habilidades, bem como buscar ativamente maneiras de aprimorar e evoluir continuamente. Meu compromisso com a proatividade me levou a participar mais de diversas atividades do projeto, garantindo que eu não apenas acompanhasse o progresso, mas também contribuísse de maneira significativa para o sucesso do time.
+> Durante o projeto, havia uma atividade que envolvia criar listas HTML mais eficazes e visualmente atrativas. Como não tínhamos o conhecimento necessário, tomei a iniciativa de pesquisar sobre diferentes formas de implementar listas em HTML e explorei como o CSS poderia ser utilizado para melhorar sua aparência e funcionalidade.
 
-* Trabalho em equipe
-> Adquirida através da habilidade de colaborar com os membros da equipe ao longo da execução do projeto, compartilhando ideias e trabalhando em conjunto. Mantive uma comunicação aberta com todos os membros da equipe, buscando constantemente formas de colaborar. Essa capacidade de colaboração não apenas fortaleceu os laços dentro da equipe, mas também permitiu que alcançássemos nossos objetivos de uma melhor forma, aproveitando ao máximo as habilidades e conhecimentos de cada membro.
+* Comunicação
+> Trabalhar em um primeiro projeto com uma equipe recém-formada apresentou desafios significativos em termos de alinhamento e colaboração. No início, enfrentamos diversos desentendimentos devido a diferentes perspectivas e formas de trabalhar. Reconhecendo a importância da comunicação para o sucesso do projeto, propus e participei de conversas abertas para resolver esses conflitos e buscar um consenso entre todos os membros.
 
 
 ### 2022-2
