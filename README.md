@@ -190,13 +190,13 @@ Durante o desenvolvimento deste projeto, assumi diversas responsabilidades, incl
 ### Soft skills
 
 * Comunicação 
-> Durante todo o projeto, minha habilidade de comunicação foi muito trabalhada. Mantive um foco constante na estruturação e na garantia de uma comunicação fluida durante todas as sprints. Essa atenção à comunicação foi crucial para o sucesso do projeto. No entanto, enfrentamos desafios interpessoais em um momento específico, onde surgiram desavenças com um membro da equipe. Para abordar esses desentendimentos e garantir que não prejudicassem o projeto ou a equipe, tivemos várias reuniões para a resolução dos conflitos. Através desses esforços, consegui melhorar minha habilidade de comunicação.
+> Durante o projeto, houve momentos críticos que exigiram uma comunicação clara e eficiente, principalmente devido à saída de membros da equipe e à entrada de dois novos integrantes. Um desses novos membros frequentemente demonstrava insatisfações com outros colegas, o que gerava conflitos. Para lidar com a situação, trabalhei intensamente na comunicação, promovendo conversas individuais e reuniões de equipe. Esses esforços resultaram na resolução dos conflitos e na construção de um ambiente mais harmônico e colaborativo, permitindo que entregássemos o projeto com uma equipe mais unida.
  
 * Proatividade
-> Minha proatividade teve uma maior evolução durante este projeto, impulsionado pela minha participação em diversas etapas do processo. Desde a comunicação direta com o cliente até a divisão de tarefas e o desenvolvimento tanto do front-end quanto do back-end, minha atuação em diferentes áreas do projeto me permitiu ser muito mais proativo.
+> Neste projeto, enfrentamos o desafio de trabalhar com novas tecnologias e a integração de banco de dados, áreas em que nenhum dos membros possuía conhecimento prévio. Diante disso, tomei a iniciativa de estudar e entender como essas tecnologias poderiam ser aplicadas. Pesquisei sobre Java e aprendi a conectar o back-end ao front-end utilizando banco de dados, assistindo a vídeos e lendo documentações. Após adquirir esse conhecimento, compartilhei com o time, ajudando a todos a entender e implementar as soluções necessárias para o sucesso do projeto.
 
 * Trabalho em equipe
-> Minha habilidade de trabalho em equipe deu uma grande evolução durante este projeto. Isso se deve ao fato de ter trabalhado na divisão de tarefas através de conversas mais frequentes com os membros da equipe. Além disso, estar mais envolvido em todas as etapas do processo contribuiu para o desenvolvimento dessa habilidade. A capacidade aprimorada de colaborar efetivamente com meus colegas resultou em um ambiente de equipe mais produtivo.
+> Minha habilidade de trabalho em equipe foi amplamente desenvolvida neste projeto, combinando esforços em comunicação e proatividade. Enfrentamos desafios significativos, desde conflitos interpessoais até a falta de familiaridade com tecnologias utilizadas. Para superar essas barreiras, colaborei intensamente com os membros, promovendo uma divisão clara de tarefas e compartilhando aprendizados obtidos durante as pesquisas.
 
 
 ### 2023-1
